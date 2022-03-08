@@ -12,7 +12,7 @@
  
 <div> 
   <a href = "mailto:rodrigo.asjanuario@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/rodrigo-andrade-a43aa2199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://https://https://www.linkedin.com/in/rodrigo-andrade-a43aa2199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
